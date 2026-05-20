@@ -311,7 +311,7 @@ export default function ChatPanel({
   );
 }
 
-function MessageBubble({ message }: { message: ChatMessage }) {
+function MessageBubble({ message }: { message: ChatMessage; key?: string }) {
   const [showCtx, setShowCtx] = useState(false);
 
   return (

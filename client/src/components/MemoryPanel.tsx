@@ -34,7 +34,7 @@ export default function MemoryPanel({ memories, onAdd, onDelete }: Props) {
 
   // Initialize and synchronize nodes and links when memories change
   useEffect(() => {
-    const existingNodes = new Map(nodesRef.current.map((n) => [n.id, n]));
+    const existingNodes = new Map<string, GraphNode>(nodesRef.current.map((n) => [n.id, n]));
     const canvas = canvasRef.current;
     const width = canvas?.clientWidth || 500;
     const height = canvas?.clientHeight || 400;
