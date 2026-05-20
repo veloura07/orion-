@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24ab13f4-a8e4-43d8-bd4f-fb1e2880d670",
+    "content": "User asked: \"hi who are you and what do u do\"",
+    "tags": [
+      "auto",
+      "session:f6296cd9-3c30-4fb4-b676-2e5edbbb8f06"
+    ],
+    "createdAt": "2026-05-20T06:27:12.130Z",
+    "updatedAt": "2026-05-20T07:00:56.145Z",
+    "importance": 0.5,
+    "accessCount": 3
+  },
+  {
+    "id": "753d11a5-5c43-4954-b9a4-2171c5186f92",
+    "content": "User asked: \"can u listen and speak\"",
+    "tags": [
+      "auto",
+      "session:f6296cd9-3c30-4fb4-b676-2e5edbbb8f06"
+    ],
+    "createdAt": "2026-05-20T06:27:28.342Z",
+    "updatedAt": "2026-05-20T07:00:56.154Z",
+    "importance": 0.5,
+    "accessCount": 2
+  },
+  {
+    "id": "4e973418-21cc-451e-a25e-fc15973b48f9",
+    "content": "User asked: \"can u speak in real time\"",
+    "tags": [
+      "auto",
+      "session:f6296cd9-3c30-4fb4-b676-2e5edbbb8f06"
+    ],
+    "createdAt": "2026-05-20T06:27:50.588Z",
+    "updatedAt": "2026-05-20T07:00:56.163Z",
+    "importance": 0.5,
+    "accessCount": 1
+  }
+]
